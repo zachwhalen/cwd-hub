@@ -30,7 +30,7 @@ if (thisIndex == null) {
   tag.insertAdjacentHTML('afterbegin', `
 <table>
   <tr>
-    <td>This site isn't part of the ${ringName} yet. You should talk to the manager to have your site added to the list!</td>
+    <td>This site isn't part of the ${ringName} yet. You should <a href="https://forms.gle/4G11aX4g6mRBDgAEA">submit your site</a> to have it added to the list!</td>
   </tr>
 </table>
   `);
