@@ -13,14 +13,14 @@
 // 'https://example.com/'
 // ];
 var sites = [
-    {'title' : 'X-FILES LOL',
-     'URL' : 'https://x-files.dgst101.net/webpage.html',
-     'by' : 'Dana Scully'
+    {'title' : 'DIGIMON',
+     'URL' : 'https://argaloes.github.io/cwd/unit-1-hello/final/',
+     'by' : 'DIGIMON'
     }
     
 ]
 //the name of the ring
-var ringName = 'EagleCities Webring';
+var ringName = 'CWD Webring';
 
 /* the unique ID of the widget. two things to note:
  1) make sure there are no spaces in it - use dashes or underscores if you must
