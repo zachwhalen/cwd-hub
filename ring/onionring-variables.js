@@ -36,6 +36,16 @@ var sites = [
         'title' : "Ranger's Apprentice Fan Page",
         'URL' : 'https://sidelineghost.github.io/cwd/unit-1-hello/final/index.html',
         'by' : 'James Turgeon'
+    },
+    {
+        'title' : 'Ariana Grande Fan Page',
+        'URL' : 'https://ahardy9.github.io/cwd/unit-1-hello/final/index.html',
+        'by' : 'Alyson Hardy'
+    },
+    {
+        'title' : 'Welcome to Quahog',
+        'URL' : 'http://kendallswaim.github.io/cwd/unit-1-hello/final/',
+        'by' : 'Kendall Swaim'
     }
     
 ]
