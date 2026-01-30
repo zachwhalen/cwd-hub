@@ -31,7 +31,7 @@ var sites = [
         'title' : 'Voyager Fan Page',
         'URL' : 'https://sinorsavannah.github.io/cwd/unit-1-hello/final/index.html',
         'by' : 'Savannah Sinor'
-    }
+    },
     {
         'title' : "Ranger's Apprentice Fan Page",
         'URL' : 'https://sidelineghost.github.io/cwd/unit-1-hello/final/index.html',
