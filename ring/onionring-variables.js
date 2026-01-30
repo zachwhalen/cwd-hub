@@ -16,6 +16,26 @@ var sites = [
     {'title' : 'DIGIMON',
      'URL' : 'https://argaloes.github.io/cwd/unit-1-hello/final/',
      'by' : 'DIGIMON'
+    },
+    {
+        'title' : 'SCREAM',
+        'URL' : 'https://mswain2.github.io/cwd/unit-1-hello/final/index.html',
+        'by' : 'Kenzie Swain'
+    },
+    {
+        'title' : 'Dead By Daylight: These Are Some Killers That I HATE!',
+        'URL' : 'https://otwheelerumw.github.io/cwd/unit-1-hello/final/index.html',
+        'by': 'Owen Wheeler'
+    },
+    {
+        'title' : 'Voyager Fan Page',
+        'URL' : 'https://sinorsavannah.github.io/cwd/unit-1-hello/final/index.html',
+        'by' : 'Savannah Sinor'
+    }
+    {
+        'title' : "Ranger's Apprentice Fan Page",
+        'URL' : 'https://sidelineghost.github.io/cwd/unit-1-hello/final/index.html',
+        'by' : 'James Turgeon'
     }
     
 ]
