@@ -46,6 +46,36 @@ var sites = [
         'title' : 'Welcome to Quahog',
         'URL' : 'http://kendallswaim.github.io/cwd/unit-1-hello/final/',
         'by' : 'Kendall Swaim'
+    },
+    {
+        'title' : 'Brownie Batter Donut',
+        'URL' : 'https://kimberkonen.github.io/cwd/unit-1-hello/final/index.html',
+        'by' : 'kimber konen'
+    },
+    {
+        'title' : "Celia's Movie Shark-ive",
+        'URL' : 'https://snelia.github.io/cwd/unit-1-hello/final/index.html',
+        'by' : 'Celia Golden'
+    },
+    {
+        'title' : '"You Got It Dude!"',
+        'URL' : 'https://kristinamhart.github.io/cwd/unit-1-hello/final/index.html',
+        'by' : 'Kristina Hart'
+    },
+    {
+        'title' : "Book Recommendations",
+        'by' : "Book Recommendations",
+        'URL' : 'https://github.com/MeredithColburn/cwd/blob/main/unit-1-hello/final/index.html'
+    },
+    {
+        'title' : "Crazy Cats Club",
+        'URL' : 'https://smoore05.github.io/cwd/unit-1-hello/final/index.html',
+        'by' : 'Sarah Moore'
+    },
+    {
+        'title' : 'Narnia',
+        'URL' : 'https://linwebnew.github.io/cwd/unit-1-hello/final/',
+        'by' : 'Lina'
     }
     
 ]
