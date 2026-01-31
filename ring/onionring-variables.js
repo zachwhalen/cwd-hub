@@ -62,11 +62,11 @@ var sites = [
         'URL' : 'https://kristinamhart.github.io/cwd/unit-1-hello/final/index.html',
         'by' : 'Kristina Hart'
     },
-    {
-        'title' : "Book Recommendations",
-        'by' : "Book Recommendations",
-        'URL' : 'https://github.com/MeredithColburn/cwd/blob/main/unit-1-hello/final/index.html'
-    },
+    // {
+    //     'title' : "Book Recommendations",
+    //     'by' : "Book Recommendations",
+    //     'URL' : 'https://github.com/MeredithColburn/cwd/blob/main/unit-1-hello/final/index.html'
+    // },
     {
         'title' : "Crazy Cats Club",
         'URL' : 'https://smoore05.github.io/cwd/unit-1-hello/final/index.html',
